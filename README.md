@@ -143,10 +143,10 @@ bitcoin-sentiment-trader-analysis/
 
 ## 👨‍💻 Author
 
-**Kunal Kargwal**  
+**Kunal **  
 B.Tech – Artificial Intelligence and Data Science  
 Vivekananda Global University, Jaipur
-
+https://www.linkedin.com/in/kunal-verma-09222628a/
 ---
 
 ## 🔗 Submission
